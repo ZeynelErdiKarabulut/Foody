@@ -1,4 +1,4 @@
-# Foody-App
+# Foody
 
 Food Recipes App -
 
@@ -44,29 +44,29 @@ Food Recipes App -
 <table>
   <tr>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211247_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211247_Foody.jpg" width="250" height="500"/>
     </td>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211253_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211253_Foody.jpg" width="250" height="500"/>
     </td>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211301_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211301_Foody.jpg" width="250" height="500"/>
     </td>
   </tr>
    <tr>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211306_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211306_Foody.jpg" width="250" height="500"/>
     </td>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211322_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211322_Foody.jpg" width="250" height="500"/>
     </td>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211327_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211327_Foody.jpg" width="250" height="500"/>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211342_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211342_Foody.jpg" width="250" height="500"/>
     </td>
   </tr>
 </table>
@@ -76,24 +76,24 @@ Food Recipes App -
 <table>
   <tr>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211348_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211348_Foody.jpg" width="250" height="500"/>
     </td>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211354_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211354_Foody.jpg" width="250" height="500"/>
     </td>
      <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211400_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211400_Foody.jpg" width="250" height="500"/>
     </td>
   </tr>
    <tr>   
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211403_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211403_Foody.jpg" width="250" height="500"/>
     </td>
     <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211407_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211407_Foody.jpg" width="250" height="500"/>
     </td>
       <td>
-      <img src="https://github.com/ZeynelErdiKarabulut/Foody-App/blob/master/images/Screenshot_20220309-211420_Foody.jpg" width="250" height="500"/>
+      <img src="https://github.com/ZeynelErdiKarabulut/Foody/blob/master/images/Screenshot_20220309-211420_Foody.jpg" width="250" height="500"/>
     </td>
   </tr>
   </table>
